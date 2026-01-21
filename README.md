@@ -53,7 +53,7 @@ The system follows a 4-Layer Neuro-Symbolic pipeline:
 
 ---
 
-## 🧪 The Evolution of Neuro-Bridge (Research Journey)
+## The Evolution of Neuro-Bridge (Research Journey)
 
 This system is not a first draft. It is the result of 9 major iterations, evolving from simple computer vision to a fatigue-adaptive Neuro-Symbolic agent.
 
@@ -124,7 +124,7 @@ python main_agent_pro_2.py
 
 > Voice: Speaks when confidence > 88%.
 
-## 🧠 The "Thinking" Engine (Traceable Reasoning)
+## The "Thinking" Engine (Traceable Reasoning)
 
 Unlike "Black Box" AI, Neuro-Bridge follows a transparent, deterministic reasoning path. Every 33ms, the **Cognitive Agent** executes the following logic chain to prevent false positives and ensure safety.
 
