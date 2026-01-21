@@ -1,1 +1,2 @@
+[![Qdrant](https://img.shields.io/badge/Powered%20by-Qdrant-blueviolet?logo=qdrant&logoColor=white)](https://qdrant.tech)
 
