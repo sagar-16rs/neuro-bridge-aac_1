@@ -25,17 +25,17 @@ Neuro-Bridge is a **Neuro-Symbolic AI Agent** that runs on a standard laptop web
 
 ### 1. State: IDLE (Scanning)
 The system establishes a baseline. The **Yellow Line** tracks the patient's fatigue (eye openness).
-<img width="400" height="400" alt="Screenshot 2026-01-21 151330" src="https://github.com/user-attachments/assets/f3e11652-3ad8-4aa2-b66d-e0cd59299341" />
+!<img width="400" height="400" alt="Screenshot 2026-01-21 151330" src="https://github.com/user-attachments/assets/f3e11652-3ad8-4aa2-b66d-e0cd59299341" />
 
 
 ### 2. State: NEGOTIATION (Active Learning)
 The user makes a messy/ambiguous gesture. The system asks **"CONFIRM?"**. If the user blinks, the system **Upserts** this new vector to Qdrant, learning the user's specific "accent" of movement.
-<img width="400" height="400" alt="Screenshot 2026-01-21 151454" src="https://github.com/user-attachments/assets/68ab8251-937d-4412-a7fe-2e2f4a6293b2" />
+!<img width="400" height="400" alt="Screenshot 2026-01-21 151454" src="https://github.com/user-attachments/assets/68ab8251-937d-4412-a7fe-2e2f4a6293b2" />
 
 
 ### 3. State: EXECUTION (Success)
 High-confidence match (>88%). The system speaks: **"I need Water."**
-<img width="400" height="400" alt="Screenshot 2026-01-21 190800" src="https://github.com/user-attachments/assets/e4d461cb-3777-4a4d-8021-7b48b433ad9f" />
+!<img width="400" height="400" alt="Screenshot 2026-01-21 190800" src="https://github.com/user-attachments/assets/e4d461cb-3777-4a4d-8021-7b48b433ad9f" />
 
 
 ---
